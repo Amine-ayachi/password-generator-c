@@ -14,7 +14,7 @@ This project generates a random password based on a user-defined length.
 - random numbers
 
 ## Compilation
-gcc main.c -o main
+gcc passwordgenerator.c -o passwordgenerator
 
 ## Execution
-./main
+./passwordgenerator
